@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack ERP",
+  "description": "Multi-tenant Coaching Institute Management SaaS ERP for Indian academies covering attendance, parent notifications, exams, fees, payroll, and portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
